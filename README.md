@@ -33,6 +33,15 @@ This section provides an overview of the datasets used in our study 📌.
 |  | GPT-4o (Q: right/left) | 51.03 ± 6.61 | 57.26 ± 8.44 ⊙ | 86.09 ± 1.01 ◇ | 97.35 ± 0.32 ◇ |
 |  | GPT-4o (Q: above/below) | 67.56 ± 20.01 | 77.17 ± 18.54 ⊙ | 88.35 ± 0.80 ◇ | 97.53 ± 0.42 ◇ |
 
+**Figure:** Accuracy comparison across prompt levels and VLMs.  
+Symbols indicate the best-performing marker type for each setting:  
+$^{\odot}$ (*Dot*), $^{\diamond}$ (*Number*), and $^{\square}$ (*Letter*) in Levels 2–3 and the Ablation Study (AS, see Section \ref{sec:AS}).  
+“General results” refer to mean accuracy across original, flipped, and rotated images for GPT-4o.
+
+
+<img src="figures/Results.jpg" alt="Result" width="700">
+
+**Figure:** Mean accuracy across VLMs for each prompt level (Levels 1–3) using original endoscopic images, and for the ablation study (AS) using marker-only phantom images without endoscopic content.
 
 
 ## 🔨 Installation
