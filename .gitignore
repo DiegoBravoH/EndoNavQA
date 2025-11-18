@@ -1,0 +1,15 @@
+1_dataset_guide/*
+!1_dataset_guide/QA original/
+!1_dataset_guide/QA flip/
+!1_dataset_guide/QA rotation/
+2_inference_code/*
+!2_inference_code/gemini-2.5-flash.py
+!2_inference_code/gpt4o.py
+!2_inference_code/januspro.py
+!2_inference_code/llama.py
+!1_dataset_guide/QA original/
+3_evaluation_code/*
+!3_evaluation_code/plot_summarize.py
+!3_evaluation_code/Level1_2_3_AS_calculate_results_image.py
+
+
