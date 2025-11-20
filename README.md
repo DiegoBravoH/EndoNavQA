@@ -51,9 +51,7 @@ This section provides an overview of the datasets used in our study 📌.
 | **JanusPro-7B**            | 46.33 ±1.28 | 41.77<sup>⊙</sup> ±0.57 | 52.44<sup>⊙</sup> ±0.68 | –  |
 | **LLaMA-3.2**              | 50.35 ±0.69 | 51.54<sup>⊙</sup> ±0.29 | 52.02<sup>⊙</sup> ±0.08 | –  |
 
-Accuracy comparison across prompt levels and VLMs. Symbols indicate the best-performing marker type for each setting: $^{\odot}$ (\textit{Dot}), $^{\diamond}$ (\textit{Number}), and $^{\square}$ (\textit{Letter}) in Levels~2–3 and the Ablation Study (AS).
-``Q: right/left" indicates the variant using binary right/left questions, shown for the best-performance comparison in Level~1.
-
+Accuracy comparison across prompt levels and VLMs. Symbols indicate the best-performing marker type for each setting: $^{\odot}$ (Dot), $^{\diamond}$ (Number), and $^{\square}$ (Letter) in Levels 2–3 and in the Ablation Study (AS). “Q: right/left” denotes the variant using binary right/left questions, included for the best-performance comparison in Level 1.
 
 
 
