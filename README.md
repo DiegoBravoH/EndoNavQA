@@ -5,7 +5,9 @@ Welcome to the repository for our ISBI2026 paper, currently under peer review. H
 
 📊 Data EndoSSS-RP
 Summary: 
-🔗 **Dataset:** [Figshare](https://doi.org/10.6084/m9.figshare.27308133)
+
+🔗 **Dataset:** For detailed information about file structure and contents, see [data.md](./data.md)
+
 🔗 **Code:** [GitHub](https://github.com/DiegoBravoH/EndoNavQA.git)
 
 This section provides an overview of the datasets used in our study 📌.

@@ -11,5 +11,5 @@
 3_evaluation_code/*
 !3_evaluation_code/plot_summarize.py
 !3_evaluation_code/Level1_2_3_AS_calculate_results_image.py
-
+.vscode/*
 
